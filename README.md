@@ -14,8 +14,10 @@
 
     [菜鸟教程：学习C](https://www.runoob.com/cprogramming/c-tutorial.html)
 
+    [cplusplus.com](https://cplusplus.com/)
+
+    CPP Reference（[英文版](https://en.cppreference.com/w/) | [中文版](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)）
+
 4. 其他
 
     [高质量C++/C编程指南](https://vrlab.org.cn/~zhuq/download/%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
-
-
