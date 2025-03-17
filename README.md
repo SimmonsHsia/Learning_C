@@ -22,4 +22,6 @@
 
 4. 其他
 
-    [高质量C++/C编程指南](https://vrlab.org.cn/~zhuq/download/%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)
+    [高质量C++/C编程指南](https://vrlab.org.cn/~zhuq/download/%E9%AB%98%E8%B4%A8%E9%87%8F%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf)  
+    
+    推荐知乎上的教程：[给萌新的C/C++环境搭建攻略（VSCode和MSYS2）](https://zhuanlan.zhihu.com/p/401188789)
