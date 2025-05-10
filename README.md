@@ -10,6 +10,8 @@
 
     [The C programming language (2nd Edition)](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)：真正的C语言之父是这本书的作者Dennis M. Ritchie, 而不是谭浩强。（也可网购中文版）
 
+    [The C Answer Book( Second Edition)](https://archive.org/details/the-c-answer-book-second-edition-by-gimpel-tondo/mode/2up)：配套答案
+
 3. 在线网站
 
     [菜鸟教程：学习C](https://www.runoob.com/cprogramming/c-tutorial.html)
@@ -18,7 +20,7 @@
 
     CPP Reference（[英文版](https://en.cppreference.com/w/) | [中文版](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)）
 
-    [clc-wiki](https://clc-wiki.net/wiki/Main_Page)：该网站内包含《The C programming language (2nd Edition)》的答案
+    [clc-wiki](https://clc-wiki.net/wiki/Main_Page)：该网站内也包含《The C programming language (2nd Edition)》的答案
 
 4. 其他
 
