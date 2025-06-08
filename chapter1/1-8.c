@@ -4,7 +4,7 @@ int main(int argc, char const *argv[])
 {
     int c = 0, sn = 0;
 
-    while ((c = getchar()) != 'q')
+    while ((c = getchar()) != EOF)
     {
         if (c == ' ')
         {
