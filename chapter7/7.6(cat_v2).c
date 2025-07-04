@@ -14,7 +14,7 @@ int main(int argc, char const *argv[])
     {
         while (--argc > 0)
         {
-            if ((fp = fopen(*++argv, "r")) != NULL)
+            if ((fp = fopen(*++argv, "r")) == NULL)
             {
                 fprintf(stderr, "%s: can't open %s\n", prog, *argv);
                 exit(1);

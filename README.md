@@ -18,7 +18,7 @@
 
     [cplusplus.com](https://cplusplus.com/)
 
-    CPP Reference（[英文版](https://en.cppreference.com/w/) | [中文版](https://zh.cppreference.com/w/%E9%A6%96%E9%A1%B5)）
+    CPP Reference（[英文版](https://en.cppreference.com/w/)）
 
     [clc-wiki](https://clc-wiki.net/wiki/Main_Page)：该网站内也包含《The C programming language (2nd Edition)》的答案
 
